@@ -260,11 +260,14 @@ DropsEarn
 
 完成任务瓜分空投。
 
-# Blockchain and mining
+# Blockchain infrastructure
+| Website                                             | Description                           | Note |
+| --------------------------------------------------- | ------------------------------------- | ---- |
+| [rinkeby.io](https://www.rinkeby.io/#stats)         | Monitor the On-Chain Node status.     |      |
+| [Bitcoin.org](https://bitcoin.org/en/bitcoin-core/) | A website to provide the Bitcoin Core |      |
 
-| Website                                     | Description                       | Note |
-| ------------------------------------------- | --------------------------------- | ---- |
-| [rinkeby.io](https://www.rinkeby.io/#stats) | Monitor the On-Chain Node status. |      |
+
+# Mining
 
 
 
@@ -365,5 +368,12 @@ DAO相关。
 | [Metamask](https://metamask.io/)           |             |      |
 | [Exodus](https://www.exodus.com/download/) |             |      |
 | [Phantom](https://phantom.app/)            |             |      |
+
+# Educational resources
+
+| Website                                 | Description                                                 | Note |
+| --------------------------------------- | ----------------------------------------------------------- | ---- |
+| [figment.io](https://learn.figment.io/) | The Web 3 education platform for developers, by developers. |      |
+
 
 

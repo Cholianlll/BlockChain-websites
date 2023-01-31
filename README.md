@@ -354,9 +354,16 @@ DAO相关。
 
 ## Quant on Cryptocurrency
 
-* [FMZ square](https://www.fmz.com/square)
+| Website                                  | Description                                                  | Note |
+| ---------------------------------------- | ------------------------------------------------------------ | ---- |
+| [FMZ square](https://www.fmz.com/square) | A Chinese blog for discussing the trading strategies on Cryptocurrency. |      |
 
 ## Crypto wallet
 
-[Metamask](https://metamask.io/)
+| Website                                    | Description | Note |
+| ------------------------------------------ | ----------- | ---- |
+| [Metamask](https://metamask.io/)           |             |      |
+| [Exodus](https://www.exodus.com/download/) |             |      |
+| [Phantom](https://phantom.app/)            |             |      |
+
 

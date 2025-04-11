@@ -6,7 +6,7 @@ Useful websites for learning BlockChain
 
 
 
-Author: Chao Li
+Author: Cholian
 
 Email: `cholian.chaoli@gmail.com`
 

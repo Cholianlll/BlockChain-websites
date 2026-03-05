@@ -12,6 +12,8 @@ Email: `cholian.chaoli@gmail.com`
 
 # News
 
+[CryptoLink](https://cryptolinks.com/)
+
 [Cryptoslate](https://cryptoslate.com/)
 
 [CoinDesk](https://www.coindesk.com/)
